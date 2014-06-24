@@ -1,0 +1,13 @@
+#
+# system.prop for lt02wifi
+#
+#
+
+ro.carrier=wifi-only
+ro.sf.hwrotation=270
+ro.sf.lcd_density=160
+persist.sys.usb.config=mtp,adb
+sys.usb.config=mtp,adb
+persist.service.adb.enable=1
+ro.lcd_min_brightness=20
+
